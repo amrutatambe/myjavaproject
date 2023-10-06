@@ -2,6 +2,6 @@ class Simple{
 	
 public static void main(String args[]){  
 	
-System.out.println("Hello Javac");  
+System.out.println("Hello Javacc");  
 	}  
 } 
